@@ -1,0 +1,65 @@
+definir :
+- fonction
+- variable
+- operation :
+    - sur variable
+    - sur fonction
+- operation <=> fonction ?
+
+/!\ peut etre mod op --> graphe des opérations + commentaires 
++ opérations suivantes suivant résultats précédents
+
+algorithme :
+1. définir exactement la tache à réaliser à partir de :
+    - opérations
+    - questions suivant l'operation ou graphe de questions
+2. trouver le mod op adéquate
+3. exécuter le mod op
+4. vérifier le résulat du mod op :
+    - si mauvais : retourner à 2
+    - si bon aller 5
+5. renvoyer les résultats
+
+mettre des numeros au modop
+mettre des numero aux question 
+pas plus de 10 réponses par questions comme ça on numérote 
+les modop à partir de 10
+
+fonction : 
+- nombre de variable
+- arbre d'operande
+
+math.h
+
+def.h
+operation.h
+modop.h
+tache.h
+
+derive.h
+integrale.h
+    intergale_curviligne.h
+    integrale_surfaciques.h
+equa.h
+inequa.h
+equa_diff.h
+vecteur.h
+proba.h
+decomposition_element_simple.h
+developement.h
+factorisation.h
+somme.h
+produit.h
+suite.h
+serie.h
+matrice.h
+complexe.h
+trigonometrie.h
+physique.h
+    electromagnetisme.h
+    thermo.h
+    electronique.h
+    fluide.h
+    mecanique.h
+graphe.h
+

@@ -1,0 +1,8 @@
+titre
+exponentielle dervive //mot clé
+1 // premiere operation
+(e^(var))'= (var)'e^(var) // justification
+e^(var) //formule depart
+(var)'e^(var) //resultat
+2 si ...// deuxime operation
+...
